@@ -1,4 +1,4 @@
-TREEROOT	= ../../../..
+TREEROOT	= /home/tim/4b25/f-of-e-tools/tools/sunflower
 
 include $(TREEROOT)/conf/setup.conf
 
